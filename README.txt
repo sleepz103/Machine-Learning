@@ -9,6 +9,7 @@ In Datei mit Wetter habe ich die Hauptwichtigste Wetterzustände gelassen. In Da
 Die Dateien müssen noch miteinander verknüpft werden. Beide Dateien haben Spalten mit Uhrzeit und Datum. Mit diesen Spalten können sie verbunden werden.
 
 "total load actual" Kolumne bezeichnet wie hoch war die Nachfrage nach Strom um dieser Uhrzeit.
+"temp" is in Kelvin angezeigt.
 
 # Datenschutz
 
